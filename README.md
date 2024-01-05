@@ -12,6 +12,10 @@ python3 -m venv venv
 
 source venv/bin/activate
 
+# To deactivate
+
+deactivate
+
 # Upgrade the pip
 
 pip install --upgrade pip
